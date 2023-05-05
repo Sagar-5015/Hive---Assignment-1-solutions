@@ -43,6 +43,6 @@ f. Calculate quartelry sales for each city
 * For quarter 4 = 3874780.010925293
 
 h. Find a month for each year in which maximum number of quantities were sold
-* Maximum number of quantities were sold in month - 11 - in year 2003
-* Maximum number of quantities were sold in month - 11 - in year 2004
-* Maximum number of quantities were sold in month - 5 - in year 2005
+* Maximum number of quantities were sold in month - 4 - in year 2005 - 97 QTY.
+* Maximum number of quantities were sold in month - 11 - in year 2004 - 55 QTY.
+* Maximum number of quantities were sold in month - 6 - in year 2003 - 50 QTY.
